@@ -1,0 +1,14 @@
+<template>
+    <lightning-card title="Updating Records in DataTable with Adapters">
+        <div >
+            <lightning-datatable
+                key-field="Id"
+                data={allcontacts}
+                columns={columns}
+                draft-values={draftValues}
+                onsave={handleSave}
+                hide-checkbox-column>
+            </lightning-datatable>
+        </div>
+    </lightning-card>
+</template>
