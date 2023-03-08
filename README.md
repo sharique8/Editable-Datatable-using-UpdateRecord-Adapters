@@ -18,3 +18,4 @@ The `sfdx-project.json` file contains useful configuration information for your 
 - [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
 
 ##Change User2 . solve it with stashing. I know merge conflict will come because master has been updated by USER 1.
+
